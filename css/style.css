@@ -1,0 +1,15 @@
+:root{
+    --main-color: #212121;
+    --secodary-colour: #757575;
+}
+body{
+    font-family:"Roboto", sans-serif;
+}
+
+.navbar a{
+
+}
+
+ul{
+    list-style-type: none;
+}
